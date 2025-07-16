@@ -2,13 +2,13 @@
 
 A web-based Marvel character guessing game built with Next.js, TypeScript, and Tailwind CSS.
 
-![Home Screen](/docs/home.png)
+![Home Screen](https://github.com/Baziele/MarvelGuessr/blob/main/public/docs/home.png?raw=true)
 
 ## Description
 
 MarvelGuessr is an interactive game where players test their knowledge of Marvel characters. The game features a dynamic interface with character input suggestions, statistics tracking, and an immersive background that changes based on gameplay.
 
-![Question Interface](/docs/question.png)
+![Question Interface](https://github.com/Baziele/MarvelGuessr/blob/main/public/docs/question.png?raw=true)
 
 ## Features
 
@@ -20,7 +20,7 @@ MarvelGuessr is an interactive game where players test their knowledge of Marvel
 -   Dark/light theme support
 -   Interactive UI with dialogs for quitting and revealing answers
 
-![Statistics Screen](/docs/stats.png)
+![Statistics Screen](https://github.com/Baziele/MarvelGuessr/blob/main/public/docs/stats.png?raw=true)
 
 ## Tech Stack
 
